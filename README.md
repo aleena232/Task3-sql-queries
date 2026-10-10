@@ -12,6 +12,13 @@ LEFT JOIN
 Subquery
 View
 Index
-Files
+Files Included
 Task3_SQL_Queries.sql
-Screenshots of outputs
+Screenshots of Outputs
+Database Used
+MySQL Workbench
+
+Tables
+customers
+Orders
+
